@@ -1,0 +1,19 @@
+{
+  "name": "@cam-just-codes/cms",
+  "version": "0.1.0",
+  "description": "CMS for Cam Just Codes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "keystone-next dev",
+    "start": "keystone-next start",
+    "build": "keystone-next build"
+  },
+  "author": "Cameron Aziz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@keystone-next/keystone": "^24.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
